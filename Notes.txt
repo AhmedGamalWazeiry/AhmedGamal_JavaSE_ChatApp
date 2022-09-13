@@ -1,0 +1,10 @@
+1-the data for Clients (username and password) will be in the database folder in the Clients' file,
+  the database will be in the root of the server folder.
+
+2-the data for conversations will be in the folder conversations every client(for testing) has a folder with the name,
+ and the conversations folder will be in the root of the Client folder.
+
+3-the data for Statistics will be in the folder Statistics every client(for testing) has a folder with the name inside every folder
+ (client name folder) will be another folder for total Statistics
+ containing (the total Statistics file) and (all statistics files with a number for every conversation),
+ and the Statistics folder will be in the root of the Client folder.
